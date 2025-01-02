@@ -1,7 +1,16 @@
-# portal
-ここから始める
+# ここから始める
+
+没入、そして融合へ
+
+# 没入:immersive
+HMDによって仮想空間への没入が可能になった。
+2Dモニタを通して、窓からの覗いていた仮想空間は、全周囲に広がることになる。
 
 * [YouTube into liquid](https://www.youtube.com/channel/UC44OI4PZ_8QEvuC57vFD4wg)
+
+# 融合:mix,merge
+全周囲に広がる仮想体を、自分が今いる実空間から影響を受けるようにする。
+
 * [Meta horizon MR紹介](https://developers.meta.com/horizon/discover/mixed-reality-intro/)
   * パススルー
     > MRにおいて自分の周囲に実環境が見えるということは最重要
